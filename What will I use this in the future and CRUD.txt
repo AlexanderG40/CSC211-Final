@@ -1,0 +1,6 @@
+I will probably use my database by selling it to a company or even using it in my own game if I ever decide to create one. This will let me know my main audience, which will result in a better user experience overall. 
+
+Crud stands for CREATE: Create is probably the most common operation. It is used to insert data or create data in a database, especially a table.
+READ: This operation reads the data from a specified part or the whole table in a database.
+UPDATE: As straightforward as the name suggests, this is used to update any data in a table.
+DELETE: This operation is the most dangerous and should be used with caution. This is used to manipulate data by deleting a specific part of a database. A common command is the DROP command, which can be used to drop the database if needed.
